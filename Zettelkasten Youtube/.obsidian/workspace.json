@@ -50,9 +50,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c37e34ab84edc8ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettels/Camada de Dados - Clean Arch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettels/Camada de Dados - Clean Arch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettels/Camada de Dados - Clean Arch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettels/Camada de Dados - Clean Arch.md"
+              }
             }
           }
         ]
@@ -165,8 +181,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0081b3d2e0e379f8",
+  "active": "c37e34ab84edc8ff",
   "lastOpenFiles": [
+    "Zettels/Camada de Dados - Clean Arch.md",
     "Zettels/Camada de Infra - Clean Arch.md",
     "Zettels/Arquitetura Limpa.md",
     "Zettels/Camada de domínio - Clean Arch.md",
